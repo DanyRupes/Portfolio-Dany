@@ -1,0 +1,52 @@
+
+.connect-container {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 8rem;
+    padding-top: 0.8em;
+    text-align:center;
+    color: grey;
+}
+.connect-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.cn-lf-container span{
+    padding-top: 2.2em 0.4em;
+}
+.cn-lf-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex: 2;
+    align-items: center;
+}
+.cn-address {
+    text-align: initial;
+    min-width: 18em;
+}
+
+.cn-email {
+    min-width: 18em;
+    text-align: initial;
+    font-family: ubuntu;
+}
+.connect-icon-c{
+    flex: 1;
+}
+.connect-icon-c > a {
+    margin: 1em 0.4em;
+    color: black;
+
+}
+
+.connect-icon-c > a:hover {
+color: rgb(233, 147, 221)
+}
+/*
+.connect-icon-c > a :active {
+    color: white
+} */

@@ -1,0 +1,11 @@
+.quote-container {
+    text-align:center;
+    background-color: #faf6f8;
+     min-height:20%;
+    color: grey;
+    padding-top: 0.8em;
+    min-height: 8rem;
+    flex-direction: column;
+    justify-content: center;
+    display: flex
+}   

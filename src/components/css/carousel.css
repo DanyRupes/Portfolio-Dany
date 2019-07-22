@@ -1,0 +1,25 @@
+
+.carousel-container {
+    height: 100%;
+    margin: 0;
+    width: 100%;
+}
+.carousel-dot-container {
+  position: absolute;
+  z-index: 10000;
+  left: 40%;
+  right: 40%;
+  display: flex;
+  justify-content: space-evenly;
+  /* top: 97%; */
+  margin-top: -37px;
+}
+.carousel-dot {
+  font-size: 1rem
+}
+
+.image-slide {
+    width: 100%;
+    height: 35em;
+    transition: background-image .3s ease-in-out;
+  }

@@ -1,0 +1,16 @@
+
+.bottom-fab-a{
+    text-decoration: none;
+    color: burlywood !important;
+}
+.bottom-fab {
+    font-size: 2em;
+    position: fixed;
+    bottom: 1em;
+    right: 2rem;
+    -webkit-transition: width 3s; /* For Safari 3.1 to 6.0 */
+    transition: width 3s;
+}
+.bottom-fab:hover {
+    font-size: 2.1rem;
+}

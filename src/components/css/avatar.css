@@ -1,0 +1,35 @@
+.avatar-container {
+    text-align:center;
+    background-color: #faf6f8;
+     min-height:20%;
+    color: grey;
+    padding-top: 0.8em;
+    min-height: 8rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.avatar-img-container {
+    width: 15em;
+    height: 100%;
+    /* border-radius: 8%; */
+    overflow: hidden;
+}
+.avatar-container h1 {
+    align-self: flex-start;
+}
+.avatar-img-container > img {
+    border-radius: 50%;
+    height: 100%;
+}
+
+.avatar-container > p {
+    font-size: 0.93rem;
+    padding: 1.3em 0.5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: initial;
+    max-width: 32em;
+}

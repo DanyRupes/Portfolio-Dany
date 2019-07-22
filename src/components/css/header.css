@@ -1,0 +1,17 @@
+html {
+    background-color: lavenderblush
+}
+.head-container {
+    background-color: #2a0e46;
+}
+
+.head-right-container{
+    display: inline-flex;
+    justify-content: space-evenly;
+    flex: 1;
+    align-items: center;
+    align-content: center;
+    flex-direction: row;
+    padding: 0.7rem 0.5rem;
+  }
+

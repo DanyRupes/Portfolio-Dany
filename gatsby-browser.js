@@ -1,0 +1,7 @@
+import './src/components/css/header.css'
+import './src/components/css/index.css'
+import './src/components/css/project.css'
+import './src/components/css/quote.css'
+import './src/components/css/avatar.css'
+import './src/components/css/connector.css'
+import './src/lib/bootstrap/dist/css/bootstrap.min.css'
